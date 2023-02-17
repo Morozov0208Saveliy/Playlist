@@ -5,4 +5,5 @@
     <string name="app_settings" translatable="false">Настройки</string>
     <string name="app_blackTopic" translatable="false">Темная тема</string>
     <string name="app_shareSettings" translatable="false">Поделиться приложением</string>
+    //
 </resources>
