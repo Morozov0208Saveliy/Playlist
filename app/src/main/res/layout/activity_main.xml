@@ -11,6 +11,8 @@
     android:padding="@dimen/paddingSize"
     android:id="@+id/mainActivity"
     tools:ignore="ExtraText">
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -68,4 +70,6 @@
         app:iconTint="@color/black"
         app:cornerRadius="@dimen/corener_Radius_Main"
         />
+
+
 </LinearLayout>
